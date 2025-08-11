@@ -26,6 +26,10 @@ Welcome to **Trip Planner App**, your smart travel companion that helps you effo
 
 
 
+https://github.com/user-attachments/assets/4fa21dc0-df87-4b49-84f6-c8142cef7ae7
+
+
+
 
 
 
