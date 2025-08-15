@@ -1,6 +1,6 @@
-# 🌟 Trip Planner App — Powered by React & Firebase with AI Magic 🚀
+# 🌟 Trip Planner App Made by React & Firebase with GENAI  🚀
 
-Welcome to **Trip Planner App**, your smart travel companion that helps you effortlessly create, manage, and explore personalized trips — all secured with Firebase and powered by AI-enhanced workflows.
+Welcome to **Trip Planner App**, your smart travel companion that helps you effortlessly create, manage, and explore personalized trips all secured with Firebase and powered by AI-enhanced workflows.
 
 ---
 
